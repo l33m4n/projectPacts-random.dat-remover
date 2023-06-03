@@ -6,7 +6,7 @@ ProjectPact's random.dat removal tool
 https://osbot.org/forum/topic/129927-projects-randomdat-remover-tool/#comment-1492828
 
 
-Dev's osbot profile
+**Dev's osbot profile**
 https://osbot.org/forum/profile/847-projectpact/
 
 If you like the program / project, please help out by support projectpact's other projects
